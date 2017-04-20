@@ -1,0 +1,1248 @@
+abdomen acute
+abdomen discomfort
+abdomen fullness
+abdomen gas
+abdomen pain
+abdominal discomfort
+abdominal pain
+abdominal pain epigastric
+abdominal pain nausea
+abdominal tenderness
+abnormal bones formation
+abnormal breath sounds
+ache
+aches generalized
+aching
+acquired sinus
+acute abdominal pain
+acute back pain
+acute chest pain
+acute dyspnea
+acute edema
+acute interstitial edema
+acute onset pain
+acute pain
+acute urinary retention
+acute vomiting
+adenitis
+adnexal cyst
+adnexal lesions
+after pain
+agitate
+agitated
+agitation
+air stomach
+air trapping
+amputation
+anal fissure
+anal fistula
+analgesia
+anastomose
+anastomosis
+angina
+angina symptoms
+anginal equivalent
+ankle pain
+ankles pain
+aortic valve calcifications
+arm pain
+arm weakness
+arthritis pain
+associated sign
+ataxia
+atrophic kidneys
+back discomfort
+back pain
+back pain radiating
+backache
+backpain
+black heel
+black stools
+bladder discomfort
+bladder distended
+bladder spasm
+bladder spasms
+bleeding bleeding
+blood in stool
+blood stool
+bloody ascites
+bloody sputum
+bloody stool
+blotchy
+blotchy rash
+blurring
+blush
+body pain
+bone pain
+bowel change movement
+bowel pain
+breakthrough pain
+breast drainage
+breast induration
+breath hold
+breath holding
+breath shortness
+breathiness
+breathing disease
+breathing labored
+breathless
+bronchial breath sounds
+buckling
+burp
+burping
+burr hole
+buttock pain
+buttocks pain
+cachexia
+calcified cyst
+calf pain
+callus
+capillary hemangioma
+cardiac pain
+carotid artery plaque
+cataracts
+catch
+catching
+central abdominal pain
+cervical spine pain
+change in mental status nos
+change mental status
+change stool
+changes stool
+chest discomfort
+chest pain
+chest pressure
+chill
+chills
+chills fever
+chronic abdominal pain
+chronic back pain
+chronic cough
+chronic ulcer
+clammy
+clonus
+coccyx pain
+coffee ground emesis
+colostomy
+colostomy site
+colostomy stoma
+complaining of cough
+complete obstruction
+complete occlusion
+complete stenosis
+compression of vein
+confused
+confusion
+constipated
+constipation
+contracture of neck
+corkscrewing
+cough
+cough at rest
+cough fever
+cough nonproductive
+cough up blood
+cough with fever
+coughing
+coughing blood
+coughing exercises
+coughing productive
+coughing up blood
+coughs
+crackle
+cramp
+cramping
+dark stool
+dark stools
+dark urine
+dazed
+decreased bowel sounds
+deep breathing
+deep inspiration
+deep pain
+deformity nos
+diaphoresis
+diarrhea
+diarrhea recurrent
+diarrhea vomiting
+difficulty breathing
+difficulty voiding
+diffuse abdominal pain
+diffuse muscle atrophy
+diffuse pain
+disc space narrowing
+discharge eye
+discomfort
+distended bladder
+distention stomach
+diverticulum of bladder
+dizziness
+dizzy
+drainage fistula
+drainage sinus
+draining wound
+drusen
+dry cough
+dry heave
+dry mouth
+dry skin
+dyspnea
+dyspnea on exertion
+early complication
+ectopic pulse
+edema leg
+edema lower extremity
+edema lower leg
+edema of leg
+edema of legs
+edema of spinal cord
+elbow pain
+emesis
+epigastric pain
+erythema
+erythema findings
+eschar
+exertion dyspnea
+exertional chest pain
+exhaustion
+exophthalmos bilateral
+expiratory wheeze
+expiratory wheezing
+extremities edema
+extremities lower pain
+extremities pain
+extremities weakness
+extremity edema lower
+extremity pain
+extremity pain upper
+exuberant granulation tissue
+eye pain
+eye twitching
+eyelid twitch
+face pain
+face weakness
+facet arthropathy
+facet arthrosis
+facial flush
+facial grimacing
+facial pain
+faint
+falling out
+fatigue
+fatigued
+feeling cold
+feeling hot
+feeling weak
+femur pain
+fever cough
+fever of unknown origin
+fever with rash
+flank pain
+flare
+flatus
+floppy
+fluctuation
+fluctuations
+fluid in the lungs
+flush
+flushed
+flushes
+flushing
+foot callus
+foot pain
+foot swelling
+forgetful
+forgetfulness
+frequent headaches
+frequent stool
+frequent stooling
+frequent stools
+frontal headache
+frothy sputum
+functional stoma
+fuo
+gaining weight
+gamna-gandy body
+gas
+gas pain
+gas passing
+gasp
+gasps
+gastric distention
+gastrostomy
+general weakness
+generalized ache
+generalized pain
+generalized weakness
+gi pain
+groin pain
+grunt
+haematemesis
+haemoptysis
+haemorrhoids
+hallux valgus
+halo
+hand edema
+hand pain
+hands pain
+harshness
+head ache
+head pain
+head pressure
+headache severe
+headaches
+heart burn
+heart pain
+heartburn
+heaves
+hepatomegaly
+hesitancy
+high urinary output
+hip pain
+hive
+hoarse
+hoarse voice
+hoarseness
+holding breath
+homans' sign
+hunger
+hungry
+hypercapnia
+hypercapnic
+hypercarbia
+hyperoxia
+hypoactive
+hypoactive bowel sounds
+hypokinesis
+hypoproteinaemia
+icteric sclera
+idiopathic fever
+ileostomy - stoma
+ill
+imbalance
+incarcerated hernia
+incision wound
+incisional pain
+increased tone
+increased urinary output
+increased work of breathing
+increasing dyspnea
+indigestion
+insomnia
+inspiratory wheeze
+intermittent pain
+intestinal pain
+intra-abdominal collection
+ischemic pain
+ischia
+itchy
+jaw pain
+joint pain
+junctional ectopic rhythm
+junctional escape beat
+junctional escape beats
+kidney abscess
+knee edema
+knee pain
+knee stiff
+labored breathing
+lack of color
+lacunes
+large liver
+large stool
+large stools
+left arm pain
+left flank pain
+left inguinal hernia
+left leg pain
+left sided chest pain
+leg edema
+leg lower pain
+leg pain nos
+leg redness
+leg swelling
+lethargic
+lethargy
+light-headedness
+listless
+liver pain
+liver spot
+llq pain
+loose bowel movement
+loose cough
+loose stool
+loose stools
+loose tooth
+lordosis
+low back pain
+low urinary output
+low urine output
+lower back pain
+lower extremities edema
+lower extremities pain
+lower extremity oedema
+lower extremity pain
+lower extremity swelling
+lower extremity weakness
+lower leg edema
+lower leg oedema
+lower leg swelling
+lumbar spine pain
+lumbosacral back pain
+lung rales
+macerated skin
+malaise
+mandibular pain
+marked edema
+mass eye
+mechanical bowel obstruction
+mental status changes
+mild pain
+moan
+moaning
+mouth breath
+mouth breathing
+mouth pain
+mucus plug
+mucus plugs
+multiple cysts
+musculoskeletal chest pain
+myoclonus
+narrowing intervertebral disc space
+narrowing of intervertebral disc space
+nasal congestion
+nasal discharge
+nasal drainage
+nasal flaring
+nasal stuffiness
+nausea
+nausea with vomiting
+nausea/vomiting
+nauseated
+nauseous
+neck pain
+neck swelling
+nervous
+night pain
+nocturnal cough
+nodule
+nodule of spleen
+nodules
+non-occlusive thrombus
+non-productive cough
+normal bowel sounds
+normal breath sounds
+normal lung sounds
+normal respiratory sounds
+nuchal rigidity
+numbness
+obstruction of esophagus
+occlusive thrombus
+oliguria
+oral pain
+orthopnea
+pain
+pain at rest
+pain calf
+pain elbow
+pain extremities
+pain finding
+pain gi
+pain heart
+pain in arm
+pain in back
+pain in chest
+pain in finger
+pain in foot
+pain in heart
+pain in knee
+pain in left elbow
+pain in left foot
+pain in left hand
+pain in leg
+pain in lumbar spine
+pain in neck
+pain in right arm
+pain in right hand
+pain in the arms
+pain in throat
+pain mouth
+pain of breast
+pain of skin
+pain penis
+pain rlq
+pain swallow
+pain symptoms
+pain throat
+pain with eating
+pain worsening
+pain wrist
+painful
+painful hip
+painful neck
+pale
+pale color
+pale skin
+pancreas atrophy
+parkinsonian tremors
+partial thrombosis
+passing flatus
+pedal edema
+pelvic pain
+pelvic pain nos
+penile pain
+perianal irritation
+periodic ventilation
+periorbital edema
+persistent cough
+persistent headache
+personality changes
+pes planus
+phleboliths
+photophobia
+pit edema
+pitting edema
+plaque
+plaques
+pleuritic chest pain
+pleuritic pain
+pnd
+popliteal cyst
+post-op pain
+posterior pain
+pressure sinus
+presyncope
+productive cough
+protrusion of intervertebral disc nos
+pruritis
+pulmonary finding
+purulent discharge
+purulent sputum
+quivering
+rales
+rapid inspiration
+recurrent hernia
+red skin
+red stool
+red stools
+red wound
+reddened skin
+redness of legs
+regional edema
+renal abscess
+renal atrophy
+renal pain
+respiratory difficulty
+respiratory distress
+respiratory rales
+rest pain
+restless
+restlessness
+retch
+retropulsion
+rhonchi
+rib pain
+right abdominal pain
+right arm pain
+right chest pain
+right hernia
+right inguinal hernia
+right leg pain
+right lower quadrant pain
+right sided chest pain
+right sided hernia
+right upper extremity pain
+right upper quadrant pain
+rigid
+rigor
+rigors
+rlq pain
+ruq pain
+rusty sputum
+scab
+scab on skin
+scabbed
+scabs
+scleral icterus
+scoliosis
+scrotal swelling
+seizure
+seizures
+septal hypertrophy
+septic emboli
+severe pain
+shake
+shakes
+shaking
+shallow breathing
+shallow inspiration
+sharp pain
+shortness of breath
+shortness of breath dyspnea
+shortness of breath on exertion
+shoulder pain
+shoulder pain left
+shoulder pain right
+side pain
+sigmoid bladder
+sinus congestion
+sinus discharge
+sinus pain
+sinus pressure
+skin changes
+skin erythema
+skin impairment
+skin pain
+skin puncture wounds
+skin reddened
+skin redness
+skin thickening
+sleeplessness
+slight fever
+slow ventilation
+sluggishness
+snoring
+sob
+soft stool
+soft stools
+sore
+sore coccyx
+sore pain
+sore skin
+soreness
+sorethroat
+sour stomach
+spasm
+spasms nos
+spastic
+spinal narrowing
+spinal stenosis
+spots
+spotty
+stiff
+stomach pain
+stool blood
+stool change
+stridor
+stump
+subchondral cyst
+subcutaneous haematoma
+subfalcine herniation
+sudden onset pain
+surgical abdomen
+surgical incision
+sweating profusely
+swelling throat
+swollen foot
+swollen leg
+swollen legs
+symptom nos
+syncope
+sz
+tachypnea
+tachypneic
+tearing pain
+tender pain
+tender skin
+tense
+thickened skin
+thigh pain
+thirsty
+thoracic back pain
+thoracic spine pain
+throat discomfort
+throat pain
+throbbing pain
+thumb pain
+tingling
+tire sign
+tired
+transection
+transplant pain
+tremors
+twitch
+twitches
+twitching
+ulcer healing
+uncal herniation
+uncoordinated
+unproductive cough
+upper abdomen pain
+upper abdominal pain
+upper extremity numbness left
+upper extremity weakness
+upset stomach
+urinary pain
+vascular pain
+ventral incisional hernia
+vesicles
+voice weakness
+vomit
+vomited
+vomiting
+warm skin
+watery stool
+weak
+weak eyes
+weakness
+weakness of arm
+wheeze
+wheeze - rhonchi
+wheezes
+wheezing
+wheezy
+wind nos
+withdrawal symptoms
+wound dehiscence
+wrist pain
+abdomen distended
+abdomen distention
+abdomen fistula nos
+abdomen masses
+abdomen tender
+abdominal distension
+abdominal edema
+abnormal blood vessel
+abnormal cervical spine
+abnormal chest
+abnormal chest x-ray
+abnormal finding
+abnormal lft
+abnormal liver
+abnormal liver function tests
+abnormal mri
+abnormal physical finding
+abnormal signs
+abnormal ultrasound
+abnormalities urine
+absent bowel sounds
+absent pulse
+afebrile
+amorphous calcification
+angioplasty status
+ankle edema
+ankle swelling
+apnea
+arm oedema
+arm swelling
+asleep
+atrial enlargement
+atrial fibrillation
+back pain
+beat missed
+bigeminy
+bile duct dilatation
+biliary duct dilatation
+bilious vomiting
+bladder spasms
+bleeding episodes
+bleeding gums
+bleeding mild
+blister
+blister of skin
+blood clot urine
+blood eyes
+blood gas level
+blood in stool
+blood pressure alteration
+blood urine
+bloody stool
+bone density increased
+bone pain
+bowel pain
+bowel sounds
+bp change
+brachial plexopathy
+breast edema
+breath sound increase
+broken skin
+brown sputum
+brown urine
+buttock pain
+calf edema
+calf swelling
+changes heart rate
+chest abnormalities
+chest abnormality
+chest subcutaneous emphysema
+chest xray pleural effusion bilateral
+choking
+coarse crackle
+coarse rales
+cold extremities
+cold extremity
+cold foot
+cold to touch
+color of extremities
+color of extremity
+color of skin
+color of urine
+colored sputum
+colored stool
+colour sputum
+coloured skin
+constant pain
+constipation
+continued fever
+contrast-enhancing lesion
+copious sputum
+cough
+cough pain
+coughs
+creamy sputum
+creatinine elevated
+creatinine rise
+decreased bone density
+decreased breath sounds
+decreased lipid
+decreased ph
+decreased renal function
+decreased sensation
+decreased sugar
+deep breathing
+diarrhea
+diffuse lesion
+dilated vessels
+dilation of lateral ventricles
+dilation of ventricle
+diminished breath sounds
+diminished lung sounds
+disoriented
+distended abdomen
+distended gall bladder
+distended gallbladder
+distended vessels
+distention of blood vessel
+distention of vein
+diuretic effect
+dizziness
+dolichocephaly mild
+drop in hematocrit
+drowsy
+dry scalp
+dyspneic
+dystrophic calcification
+ecchymosis of skin
+edema extremities
+edema of breast
+edema of calf
+edema of scrotum
+edematous extremities
+elevated alkaline phosphatase
+elevated bilirubin
+elevated blood glucose
+elevated blood sugars
+elevated bp
+elevated glucose tolerance test
+elevated k
+elevated lft's
+elevated liver function test
+elevated liver function tests
+elevated liver tests
+elevated serum k
+elevated temperature
+elevated total bilirubin
+elevated venous pressure
+elevated white blood cell count
+emboli
+embolism
+embolus
+emphysematous bulla
+endobronchial lesion
+endotracheal tube leak
+enhancing lesion
+enlarged fourth ventricle
+enlarged gall bladder
+enlarged heart
+enlarged lymph node
+enlarged lymph nodes
+enlarged pulmonary artery
+enlarged spleen
+enlarged ventricles
+enlargement lymph nodes
+enlargement of spleen
+enzymes elevated
+erythema of neck
+erythematous rash
+expiratory crackles
+extremities lower rash
+eye pain
+face pain
+face rash
+face rash skin
+facial grimace
+faecal impaction
+fair skin
+febrile
+feeling hot
+fever
+fever pattern
+fevers
+fine crackle
+fine rales
+flaking of skin
+fluid in middle ear
+fluid stomach
+fluid stool
+friable skin
+glucose tolerance decreased
+granulation
+gray sputum
+green sputum
+green stool
+green stools
+green urine
+grey stool
+groin rash
+gross lesion
+gynecomastia
+haematuria
+hand erythema
+hand oedema
+hand swelling
+hands tremor
+hard of hearing
+hct decreased
+hct increased
+head edema
+head oedema
+heart murmur
+heart rate changed
+heart rate increased
+hematoma
+hemodialysis status
+hepatic lesion
+hepatic lesions
+high calcium
+high cholesterol
+high dextrose
+high fever
+high glucose
+high head
+high output ileostomy
+high white blood cell count
+hyperactive
+hyperactive bowel sounds
+hyperbilirubinemia
+hyperglycemia severe
+hyperkalaemia
+hyperlipidemia
+hypertension
+hypertensive
+hyperthermia
+hypoglycemia
+hypokalaemia
+hyponatraemia
+hypoproteinemia
+hypotension
+hypothermia
+hypothermic
+hypovolaemia
+ileostomy status
+impaired ventilation
+increase weight
+increased blood flow
+increased bowel movement
+increased breath sounds
+increased calcium
+increased cardiac enzymes
+increased coughing
+increased density of lung
+increased echogenicity
+increased heart rate
+increased hunger
+increased lung sounds
+increased mg
+increased npn
+increased sugar
+increased temperature
+increased urinary output
+increased weight
+increased white blood cell
+increased white blood cell count
+ineffective breathing pattern
+insomnia
+intermittent shortness of breath
+internal bleeding
+internal haemorrhage
+irregular tarsal bones
+labile blood pressure
+lateral ventricle dilatation
+left atrial enlargement
+left ventricular systolic dysfunction
+leg stiff
+lesion liver
+lesion of liver
+lesion of lung
+lesions liver
+lesions lungs
+lesions mouth
+lesions tongue
+leucocytosis
+leucopenia
+liquid stool
+liquid stools
+liver lesion
+liver pain
+loose stool
+loose stools
+low blood sugars
+low bp
+low calcium
+low glucose
+low glucose level
+low grade fever
+low grade fevers
+low insulin
+low pulses
+low sodium
+low wbcs
+lung lesion
+lymph node enlarged
+lymph node enlargement
+mental health issue
+mg decrease
+mg decreased
+mg reduced
+mild anxiety
+mild fever
+mild sclerosis
+missed beats
+moist skin
+mouth lesion
+multi-organ failure
+multifocal lesion
+nausea
+neck edema
+neck pain
+no bowel sounds
+npn increased
+numbness
+pale lung
+pale skin
+pancreatic dilatation
+paralysed
+perineal edema
+periods of restlessness
+periosteal reaction
+peripheral edema
+pink skin
+pink urine
+poor swallowing
+productive cough -green sputum
+productive cough-yellow sputum
+pustule
+pustules
+pvcs
+pyloric obstruction
+rapid heart rate
+rapid shallow breathing
+rash chest
+red foot
+red neck
+red nipple
+red urine
+red wound
+renal abnormalities
+renal abnormality
+renal failure
+response pain
+response to medication
+response to pain
+retroperitoneal adenopathy
+retroperitoneal bleed
+retroperitoneal enlarged lymph nodes
+retroperitoneal haematoma
+retroperitoneal haemorrhage
+rimmed
+sarcoidosis
+scrotal edema
+secondary haemorrhage
+secondary renal failure
+seizure
+seizure activity
+severe fever
+severe osteopenia
+shortness of breath at rest
+shortness of breath rest
+shoulder weakness
+sinus bradycardia
+sinus pain
+skin blister
+skin breakdown
+skin colour
+skin drainage
+skin pain
+skin problem
+sleep decreased
+sleepy
+slow focus
+slow weight gain
+slurred speech
+small bowel dilatation
+soft systolic murmur
+soft tissue swelling
+somnolence
+sore on skin
+sounds in abdomen
+spike fever
+spiking fever
+spinal canal stenosis
+stomach pain
+stool color
+stress
+stressed
+subcutaneous edema
+subcutaneous oedema
+superficial edema
+sweat
+sweating
+sweats
+swelling
+swelling abdomen
+swelling chest
+swelling of knees
+swelling of subcutaneous tissue
+swelling of vein
+swelling swelling
+swelling testicles
+swelling veins
+swollen
+swollen abdomen
+swollen ankle
+swollen arm
+swollen hand
+systolic cardiac murmur
+systolic murmur
+tachycardia
+tachycardia - pulse
+tachycardia exertional
+tachycardias
+tearful
+tearing
+tender abdomen
+throbbing
+thrombocytopenia
+tongue white
+translucent skin
+trunk rash
+ulceration
+unable to cough
+upper extremity oedema
+upper extremity swelling
+ureter obstruction
+vascular abnormalities
+vascular abnormality
+vasogenic edema
+vein dilation
+vein swelling
+venous dilatation
+venous haemorrhage
+ventricular dilatation
+ventricular dilation
+ventricular enlargement
+ventricular fibrillation
+vomiting
+watery stool
+wbc inc
+wbc increased
+weak pulse
+weight increase
+weight loss
+weightloss
+white matter lesions
+white sputum
+yellow skin
+yellow sputum
+yellow urine
+abnormal opacities
+abnormal pulmonary mass
+abnormal soft tissue calcifications
+associated hematoma
+associated mediastinal shift
+associated ventricular dilatation
+associated with apnea
+associated with worsening
+atelectatic opacity
+benign bowel sounds
+benign cortical cysts
+benign lesion
+benign result
+better endurance
+better labs
+better sedation
+better tolerance
+black liquid
+black liquid stool
+bloody labs
+bloody liquid stool
+cloudy yellow urine
+coarse interstitial pattern
+coarse lung opacification
+coarse opacities
+condition hepatic lesion
+confluent opacities
+confluent opacity
+consolidation pneumothorax
+consolidation worsening
+dense left hemiparesis
+dense lung opacification
+dense opacity
+densely sclerotic lesion
+dependent opacities
+diffuse adenopathy
+diffuse cortical thinning
+diffuse crackles
+diffuse heterogeneous echotexture
+diffuse increased echogenicity
+diffuse interstitial pattern
+diffuse mucosal thickening
+diffuse opacities
+diffuse soft tissue swelling
+diffuse swelling
+diffuse vascular
+extensive ecchymosis
+extensive lymphadenopathy
+extensive white matter lesions
+mild nausea
+mild opacity
+mild pectus deformity
+mild peripheral edema
+mild retracting
+mild retraction
+mild retractions
+mild retrolisthesis
+mild sacral dimple
+mildly enlarged heart
+moderate gynecomastia
+moderate plaque
+pale normal pulses
+pale yellow sputum
+pale yellow urine
+palpable afebrile
+palpable dressing
+palpable hematoma
+patchy lung opacification
+patchy opacities
+patchy opacity
+pink granulation
+pink swollen
+poor activity tolerance
+poor cough
+poor result
+poorly defined opacity
+red swollen
+residual enhancing lesion
+decreased breath sounds
+dyspneic
+heterogeneous echotexture
+hypertensive
+sleepy
+swollen
+swollen abdomen
+weepy
+worsening mental status
+worsening opacities
+worsening respiratory status
+yellow clear urine
+yellow thick sputum
